@@ -9,6 +9,6 @@ public class Main {
      * @param args argumentos de línea de comandos
      */
     public static void main(String[] args) {
-        System.out.println("Hello Gaspar");
+        System.out.println("Hello mundillo");
     }
 }
