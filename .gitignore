@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Java class files
+*.class
+
+# Archives
+*.zip
+*.jar
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.vscode/
+
